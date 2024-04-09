@@ -7,6 +7,8 @@ function createHelloWorld(){
     }
 }
 
+module.exports = createHelloWorld;
+
 
 /**
  * const f = createHelloWorld();
