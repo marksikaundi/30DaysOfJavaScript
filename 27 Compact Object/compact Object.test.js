@@ -1,5 +1,5 @@
 const assert = require("assert");
-const compactObject = require("./compact Object");
+const compactObject = require("./Compact Object");
 
 describe("compactObject", () => {
   it("should return the compacted object with no falsy values", () => {
